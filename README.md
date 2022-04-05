@@ -7,6 +7,22 @@ The report should be clear, concise, with explanation of specific and appropriat
 
 Make sure to include enough statistical information so that another analytics professional could review your work. Your report can include graphics created by R, keeping in mind that if you do include a graphic, you will have to provide some accompanying narrative text to explain what it is doing in your report. 
 
+## Feature Dictionary
+DistrictName    : Name of the district
+WithDTP         : Percentage of students in the district with the DTP vaccine
+WithPolio       : Percentage of students in the district with the Polio vaccine
+WithMMR         : Percentage of students in the district with the MMR vaccine
+WithHepB        : Percentage of students in the district with Hepatitis B vaccine
+PctUpToDate     : Percentage of students with completely up-to-date vaccines
+DistrictComplete: Boolean showing whether or not district’s reporting was complete
+PctBeliefExempt : Percentage of all enrolled students with belief exceptions
+PctMedicalExempt: Percentage of all enrolled students with medical exceptions
+PctChildPoverty : Percentage of children in district living below the poverty line
+PctFamilyPoverty: Percentage of families in district living below the poverty line
+PctFreeMeal     : Percentage of students in the district receiving free or reduced cost meals
+Enrolled        : Total number of enrolled students in the district
+TotalSchools    : Total number of different schools in the district
+
 ## Implementation
 Time series analysis to understand trends in vaccination rates
 Regression analysis along with interaction among certain features
