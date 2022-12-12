@@ -1,4 +1,5 @@
 # Statistical-Analysis-on-California-School-Districts-Vaccination
+The project explains specific and appropriate statistical values; both frequentist and Bayesian inferential evidence; explanation including both data exploration and cleaning and appropriate diagnostics.
 
 ## Introduction & Objective
 Goal for this project is to conduct the necessary analyses of vaccination rates in California school districts and then write up a technical report for a scientifically knowledgeable staff member in a California state legislator’s office. There should be sufficient numeric and graphical detail that the staff member can create a comprehensive briefing for a legislator.
